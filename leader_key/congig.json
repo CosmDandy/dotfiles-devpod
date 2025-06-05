@@ -180,7 +180,12 @@
         {
           "key" : "s",
           "type" : "application",
-          "value" : "/Applications/Session.app"
+          "value" : "/Applications/Timing.app"
+        },
+        {
+          "key" : "l",
+          "type" : "application",
+          "value" : "/Applications/Linear.app"
         }
       ],
       "iconPath" : "note.text",
